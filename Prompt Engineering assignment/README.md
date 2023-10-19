@@ -1,50 +1,18 @@
-# 🎈 Streamlit + LLM Examples App
+a) Use chatgpt to write an medium.com article on best practices for writing prompts.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)
+apply this best practices in your custom domain for a full example.
 
-Starter examples for building LLM apps with Streamlit.
+another part of the project: You will write an app which will critique a given prompt for all the missing information. Put gpt4 as expert prompt engineer and ask it to critique and provide clues on how to improve and suggest changes for improvements so user can accept
 
-## Overview of the App
+https://medium.com/@shih.wesley/the-art-of-prompt-engineering-best-practices-for-custom-domains-ea5e6a8fce04
 
-This app showcases a growing collection of LLM minimum working examples.
+b) Write an gradio or streamlit application for perfect prompt generation with proper ux  (following all best practices) using gpt4 assisted help
 
-Current examples include:
+You will brainstorm with prompt gpt for meta prompting. come up with best prompt
 
-- Chatbot
-- File Q&A
-- Chat with Internet search
-- LangChain Quickstart
-- LangChain PromptTemplate
-- Chat with user feedback
+Your web app -  will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need
 
-## Demo App
+customer  will be able to test end2end the prompt with samples 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm-examples.streamlit.app/)
 
-### Get an OpenAI API key
-
-You can get your own OpenAI API key by following the following instructions:
-
-1. Go to https://platform.openai.com/account/api-keys.
-2. Click on the `+ Create new secret key` button.
-3. Next, enter an identifier name (optional) and click on the `Create secret key` button.
-
-### Enter the OpenAI API key in Streamlit Community Cloud
-
-To set the OpenAI API key as an environment variable in Streamlit apps, do the following:
-
-1. At the lower right corner, click on `< Manage app` then click on the vertical "..." followed by clicking on `Settings`.
-2. This brings the **App settings**, next click on the `Secrets` tab and paste the API key into the text box as follows:
-
-```sh
-OPENAI_API_KEY='xxxxxxxxxx'
-```
-
-## Run it locally
-
-```sh
-virtualenv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run Chatbot.py
-```
+To run this project, you just have to run 'streamlit run Prompt\ Constructor.py'
