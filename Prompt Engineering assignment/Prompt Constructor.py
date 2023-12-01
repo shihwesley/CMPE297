@@ -1,4 +1,6 @@
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=openai_api_key)
 import streamlit as st
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
@@ -25,7 +27,7 @@ for msg in st.session_state.messages:
     st.chat_message(msg["role"]).write(msg["content"])
 
 if prompt := st.chat_input():
-    openai.api_key = openai_api_key
+    
     if not openai_api_key:
         st.info("Please add your OpenAI API key to continue.")
         st.stop()
@@ -33,7 +35,7 @@ if prompt := st.chat_input():
 
     st.chat_message("user").write(prompt)
 
-    response = openai.ChatCompletion.create(model="gpt-4", messages=[{"role": "system", "content": "As an expert prompt enigneer, take what is initially given and ask for more details to help construct a prompt. Iterative back and forth fashion until you have all the information you need to generate the best prompt."},*st.session_state.messages])
+    response = client.chat.completions.create(model="gpt-4", messages=[{"role": "system", "content": "As an expert prompt enigneer, take what is initially given and ask for more details to help construct a prompt. Iterative back and forth fashion until you have all the information you need to generate the best prompt."},*st.session_state.messages])
     msg = response.choices[0].message
     st.session_state.messages.append(msg)
     st.chat_message("assistant").write(msg.content)

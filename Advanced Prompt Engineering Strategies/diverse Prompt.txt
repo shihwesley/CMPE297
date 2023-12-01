@@ -1,0 +1,130 @@
+1. Human Resources (HR)
+Employee Satisfaction Survey Analysis
+
+Prompt: "Analyze the results of our latest employee satisfaction survey and identify key areas for improvement."
+Test Case: Use recent survey data to evaluate employee happiness and areas needing attention.
+Diversity and Inclusion Initiative Proposal
+
+Prompt: "Propose a comprehensive diversity and inclusion initiative for our company, focusing on actionable steps."
+Test Case: Develop a plan for enhancing diversity and inclusion in the workplace.
+Conflict Resolution Strategies
+
+Prompt: "Outline effective conflict resolution strategies for workplace disputes among team members."
+Test Case: Apply these strategies to a hypothetical scenario involving a dispute between two employees.
+2. Teaching
+Lesson Plan for Interactive Learning
+
+Prompt: "Create a detailed lesson plan focused on interactive learning for a topic in [Subject]."
+Test Case: Design a lesson plan for a middle school science class on ecosystems.
+Student Engagement Techniques
+
+Prompt: "List innovative techniques to enhance student engagement in virtual classrooms."
+Test Case: Implement these techniques in a virtual English literature class.
+Assessment Method Development
+
+Prompt: "Develop a new assessment method that caters to diverse learning styles in [Subject/Area]."
+Test Case: Create an assessment for a high school math course that includes both visual and written components.
+3. Finance
+Investment Strategy Proposal
+
+Prompt: "Draft a proposal for a balanced investment strategy suitable for a client in their 30s."
+Test Case: Use this strategy for a hypothetical client with a moderate risk tolerance.
+Financial Health Checkup Guide
+
+Prompt: "Create a comprehensive guide for conducting a personal financial health checkup."
+Test Case: Apply the guide to a case study of an individual seeking to improve their financial situation.
+Market Trend Analysis
+
+Prompt: "Analyze current market trends in the tech industry and predict their impact on investments."
+Test Case: Use this analysis to advise an investor interested in tech stocks.
+4. Marketing
+Social Media Campaign Plan
+
+Prompt: "Design a social media campaign for a new eco-friendly product launch."
+Test Case: Develop a campaign plan for a biodegradable cleaning product.
+Customer Persona Development
+
+Prompt: "Create detailed customer personas for our target market in the health and wellness sector."
+Test Case: Use these personas to tailor a marketing strategy for a new fitness app.
+Brand Reputation Management Strategy
+
+Prompt: "Develop a strategy for managing and improving our brand's online reputation."
+Test Case: Create a response plan for hypothetical negative reviews on social media.
+5. Engineering
+Project Risk Assessment
+
+Prompt: "Conduct a risk assessment for a proposed bridge construction project in an earthquake-prone area."
+Test Case: Evaluate potential risks and mitigation strategies for a bridge project in California.
+Sustainable Design Solutions
+
+Prompt: "Propose sustainable design solutions for reducing energy consumption in commercial buildings."
+Test Case: Apply these solutions to the design of a new office building.
+Technology Innovation Proposal
+
+Prompt: "Propose a new technology innovation that could revolutionize the field of renewable energy."
+Test Case: Conceptualize a novel solar panel design that increases energy efficiency.
+6. Health Care
+Patient Care Improvement Plan
+
+Prompt: "Develop a plan to improve patient care in the emergency department."
+Test Case: Implement the plan in a busy urban hospital's emergency department.
+Health Education Program for Chronic Diseases
+
+Prompt: "Design a health education program focused on managing chronic diseases like diabetes."
+Test Case: Create educational materials and a workshop plan for patients with diabetes.
+Healthcare Technology Integration
+
+Prompt: "Propose ways to integrate new technologies to enhance patient treatment and data management."
+Test Case: Suggest implementation of a new digital health record system in a clinic.
+7. Law
+Legal Research on New Legislation
+
+Prompt: "Conduct comprehensive legal research on the implications of the newly proposed privacy legislation."
+Test Case: Analyze the potential impact of this legislation on tech companies.
+Client Case Preparation Strategy
+
+Prompt: "Outline a strategy for preparing a strong defense in a corporate litigation case."
+Test Case: Develop a defense strategy for a company involved in a contractual dispute.
+Legal Awareness Campaign for Public Rights
+
+Prompt: "Create a campaign to raise public awareness about their legal rights in
+
+8. Information Technology (IT)
+Cybersecurity Protocol Update
+
+Prompt: "Draft a proposal for updating our cybersecurity protocols to address recent threats."
+Test Case: Apply these updated protocols to a scenario involving a phishing attack.
+Software Development Project Plan
+
+Prompt: "Outline a project plan for developing a new mobile application focused on personal finance management."
+Test Case: Use this plan for a start-up's new app development, detailing timelines and milestones.
+IT Infrastructure Optimization Strategies
+
+Prompt: "Propose strategies for optimizing our current IT infrastructure for better performance and efficiency."
+Test Case: Implement these strategies in a medium-sized business with an outdated IT system.
+9. Entrepreneurship
+Business Model Canvas for a Startup
+
+Prompt: "Create a business model canvas for a startup in the sustainable fashion industry."
+Test Case: Apply this canvas to a hypothetical startup focusing on eco-friendly clothing.
+Market Entry Strategy for a New Product
+
+Prompt: "Develop a market entry strategy for launching an innovative home automation gadget."
+Test Case: Plan the launch of a new smart home device, considering competition and target market.
+Funding Pitch for Investors
+
+Prompt: "Draft a compelling funding pitch for investors for a new health tech venture."
+Test Case: Create a pitch for a mobile app that offers virtual health consultations.
+10. Environmental Science
+Climate Change Impact Report
+
+Prompt: "Write a report on the impact of climate change on coastal ecosystems."
+Test Case: Focus on the Great Barrier Reef, analyzing recent changes and future projections.
+Sustainable Resource Management Plan
+
+Prompt: "Develop a plan for sustainable management of natural resources in a developing country."
+Test Case: Create a resource management plan for a country heavily reliant on rainforest resources.
+Environmental Policy Recommendation
+
+Prompt: "Propose recommendations for environmental policies to improve urban air quality."
+Test Case: Suggest policies for a major city with a history of air pollution problems.
